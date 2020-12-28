@@ -32,10 +32,10 @@ Q3. What daily sales number does this DAX measure formula calculate? CALCULATE(S
 
 Q4. You are creating a report in Power Bl Desktop and want to restrict the data to records where Country="Canada". To accomplish this, what do you need to create?
 
-    [x] a directive
+    [ ] a directive
     [ ] a custom column
     [ ] an indexed column
-    [ ] a parameter
+    [*] a parameter
 
 Q5. What is the primary benefit of using visualizations such as line charts, bar charts, and column charts?
 
@@ -101,7 +101,7 @@ Q12. After you enter text in the Q&A box or O&A visual, Power Bl will \_ your da
     [ ] filter and group
     [ ] sort and filter
     [ ] sort, filter, and group
-    [ ] sort and group
+    [*] sort and group
 
 Q13. You just deleted a dashboard in the Power Bl service and want to get it back. What should you do?
 
@@ -114,7 +114,7 @@ Q14. You have a sales data source and want to relate the tables. The table that 
 
     [ ] dimension; fact
     [ ] lookup; data
-    [ ] data; lookup
+    [*] data; lookup
     [ ] data; supporting
 
 Q15. When you are creating a formula in the Power Query Editor, what does IntelliSense provide a list of? (Select all that apply.)
@@ -190,7 +190,7 @@ CALCULATE(SUM([Sales]) ,DATESHTD([Date] ))
 
     [ ] running total sales in each month that starts over each month
     [ ] total sales for the entire month
-    [ ] running total in entire year for the entire month
+    [*] running total in entire year for the entire month
     [ ] rolling average over 12 months of sales
 
     
